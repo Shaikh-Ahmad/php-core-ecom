@@ -1,0 +1,8 @@
+1* 
+IN this project code is refactor in a better way. and is simplified. Their is different file for different task.
+
+2* 
+Run following command in terminal to serve a php project
+$ php -S localhost:8080
+
+then open in browser with link: http://localhost:8080/public/products/index.php
